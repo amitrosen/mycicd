@@ -1,8 +1,9 @@
 def hello():
     print("hi")
 
+
 def bye():
     print("bye")
-print(hello())
 
-a=34
+
+print(hello())
