@@ -1,3 +1,5 @@
-a=277
+a = 277
+
+
 def bye():
     print("bye")
